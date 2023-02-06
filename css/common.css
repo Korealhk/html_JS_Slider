@@ -1,0 +1,11 @@
+/* reset */
+body {
+	font: normal 15px 'Noto Sans KR', 'Roboto', sans-serif; 
+	font-weight: 400;
+	line-height: normal;
+	color: #000;
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+	word-break: keep-all;
+}
